@@ -9,3 +9,30 @@
 </div>
 
 ###
+
+
+
+## Currently more focused on:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+
+
