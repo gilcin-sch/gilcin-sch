@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%96%96+Hello!+I+am+Gilcimar%2C+student+and;passionate+about+technology+%F0%9F%91%BE)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2400&pause=900&color=31F1F7&width=435&lines=%F0%9F%96%96+Welcome+to+my+GitHub;my+name+is+Gilcimar;+I'm+a+programming+apprentice+;and+a+game+lover+%F0%9F%91%BE)](https://git.io/typing-svg)
 ## About me 
 
 - 🚀 Junior Developer
