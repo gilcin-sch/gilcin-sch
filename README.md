@@ -8,6 +8,7 @@
 
 ## Current Focus
 🔧 Programming and getting started in cybersecurity out of curiosity
+👾 Game development with unity
 
 <br clear="both">
 
