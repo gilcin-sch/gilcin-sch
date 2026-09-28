@@ -2,7 +2,7 @@
 ## About me 
 
 - 🚀 Junior Developer
-- 🎓 Graduating in Systems Analysis and Development
+- 🎓 Systems Analysis and Development
 - 🌱 Currently focusing on Golang and getting started in game development
 - 🎨 Artist in my spare time
 
